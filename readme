@@ -1,0 +1,2 @@
+readme file
+to build : /bin/sh -c '"make"  -j 4 -f "pnetstat_wsp.mk"'
